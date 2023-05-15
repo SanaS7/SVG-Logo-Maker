@@ -37,7 +37,7 @@ Once you have provided all the inputs, the application will generate an SVG file
 
 ## Screenshots
 
-![Logo](https://raw.githubusercontent.com/SanaS7/SVG-Logo-Maker/tree/main/examples/logo.svg)
+![Logo](https://raw.githubusercontent.com/SanaS7/SVG-Logo-Maker/main/examples/logo.svg)
 
 
 <br>
