@@ -1,0 +1,28 @@
+{
+  "name": "svg-logo-maker",
+  "version": "1.0.0",
+  "description": "This application will create a SVG Logo for your Projects",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SanaS7/SVG-Logo-Maker.git"
+  },
+  "keywords": [
+    "SVG",
+    "Logo",
+    "Maker"
+  ],
+  "dependencies": {
+    "inquirer": "^8.2.4",
+    "jest": "^29.4.3"
+  },
+  "author": "Sana",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/SanaS7/SVG-Logo-Maker/issues"
+  },
+  "homepage": "https://github.com/SanaS7/SVG-Logo-Maker#readme"
+}
