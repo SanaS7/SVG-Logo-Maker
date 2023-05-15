@@ -35,6 +35,13 @@ Once you have provided all the inputs, the application will generate an SVG file
 
 <br>
 
+## Screenshots
+
+![Logo](https://raw.githubusercontent.com/SanaS7/SVG-Logo-Maker/tree/main/examples/logo.svg)
+
+
+<br>
+
 ## Directory structure
 
 The project directory has the following structure:
@@ -71,5 +78,6 @@ Contributions are welcome! If you have any ideas, bug reports, or feature reques
 
 ## License
 
-This project is licensed under the terms of the [MIT License](https://opensource.org/licenses/MIT). See the [LICENSE](LICENSE) file for more information.
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)  
+This project is covered under the MIT License license.
 
