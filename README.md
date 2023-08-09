@@ -6,6 +6,10 @@ The Logo Generator is a command-line application that allows you to generate sim
 
 <br>
 
+
+## walkthrough video link
+https://drive.google.com/file/d/16jnHoK_V9RLhFQ76h2xyJ0v43CaBQ8Dv/view?usp=sharing
+
 ## Installation
 
 1. Clone the repository:
